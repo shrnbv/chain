@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+li{
+    float: left;
+    padding: 20px;
+    list-style: none;
+    color: grey;
+}
+.bg{
+    background-image: url('images/slider-left-dec.png');
+    height: 1200px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-left: -80px;
+
+}
+
+.bg2{
+    background-image: url('images/services-left-dec.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+
+.block1{
+    margin-left: 100px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 50px;
+    margin-top: 50px;
+}
+
+.block2{
+    margin-left: 50px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 50px;
+    margin-top: 50px;
+}
+
+
+.block3{
+    margin-left: 50px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 50px;
+    margin-top: 50px;
+}
+
+
+.block4{
+    margin-left: 50px;
+    margin-right: 100px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 50px;
+    margin-top: 50px;
+}
+
+.fotka{
+    background-image: url(./images/about-bg.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    margin-top: -530px;
+    
+}
+
+.plitka{
+    margin-left: 100px;
+    width: 280px;
+    height: 70px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 54px;
+    border-bottom-left-radius: 54px;
+    border-bottom-right-radius: 53px;
+    border-top-right-radius: 54px;
+    margin-top: 72px;
+}
+
+.plitka2{
+   position: absolute;
+   left: 400px;
+    width: 280px;
+    height: 70px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 54px;
+    border-bottom-left-radius: 54px;
+    border-bottom-right-radius: 53px;
+    border-top-right-radius: 54px;
+    margin-top: 72px;
+}
+
+.plitka3{
+    margin-left: 100px;
+    width: 280px;
+    height: 70px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 54px;
+    border-bottom-left-radius: 54px;
+    border-bottom-right-radius: 53px;
+    border-top-right-radius: 54px;
+    margin-top: 72px;
+}
+
+.plitka4{
+    position: absolute;
+    top: 2152px;
+    left: 401px;
+    width: 280px;
+    height: 70px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 54px;
+    border-bottom-left-radius: 54px;
+    border-bottom-right-radius: 53px;
+    border-top-right-radius: 54px;
+    margin-top: 72px;
+}
+
+.block5{
+    margin-left: 800px;
+    width: 442px;
+    height: 300px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 53px;
+    border-bottom-left-radius: 53px;
+    border-bottom-right-radius: 53px;
+    border-top-right-radius: 50px;
+    margin-top: -505px;
+    background-image: url(./images/client-bg.png);
+}
+
+.app1{
+    float: left;
+    margin-left: 100px;
+    width: 400px;
+    height: 680px;
+    border-radius: 50px;
+    box-shadow: 0.1px 0.1px 7px 0.8px rgb(185, 184, 184);
+    margin-top: 250px;
+}
+
+.app2{
+    float: left;
+    margin-left: 20px;
+    width: 400px;
+    height: 680px;
+    border-radius: 50px;
+    box-shadow: 0.1px 0.1px 7px 0.8px rgb(185, 184, 184);
+    margin-top: 200px;
+}
+
+.app3{
+    display: inline-block;
+    margin-left: 20px;
+    width: 400px;
+    height: 680px;
+    border-radius: 50px;
+    box-shadow: 0.1px 0.1px 7px 0.8px rgb(185, 184, 184);
+    margin-top: 250px;
+}
+
+.foot{
+    background-image: url(./images/footer-bg.png);
+    height: 1200px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
